@@ -14,9 +14,7 @@ const HouseForSale = () => {
             <HouseCard></HouseCard>
 
             <HouseCard></HouseCard>
-            <HouseCard></HouseCard>
-            <HouseCard></HouseCard>
-            <HouseCard></HouseCard>
+           
             
         </div>
         <div className='w-full'>
